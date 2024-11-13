@@ -8,18 +8,21 @@ Colaborador Gamma:  Paniagua Kevin
  a-¿Cómo queda el máster después de estos cambios?
  b-¿Beta pudo ver todos los cambios que se realizaron?
  c-¿que debió hacer (todos los comandos) en el punto 5 para poder hacer el merge ?
-a:
-b:
-c:
 
- Responde GAMMA:
- d-¿Las ramas creadas por BETA y GAMMA quedan con datos actualizados?
- e-¿Detalle (explique) los problemas que tuvieron al hacer el merge?
- f-¿que debió hacer (todos los comandos) en el punto 7 para poder hacer lo pedido?
- d:
- e:
- f:
+a: El master queda con todos los archivos creados de las ramas una vez se realiza el merge
+b: Si, pude ver todos los cambios realizados por mi compañeros en las ramas creadas
+c: No hice comandos, hice todo mediante las opciones que brinda el Visual Studio Code.
 
- Responde ALFA:
- G-¿que debió hacer(todos los comandos) en el punto 8 para poder hacer lo pedido?
- g:
+Responde GAMMA:
+d-¿Las ramas creadas por BETA y GAMMA quedan con datos actualizados?
+e-¿Detalle (explique) los problemas que tuvieron al hacer el merge?
+f-¿que debió hacer (todos los comandos) en el punto 7 para poder hacer lo pedido?
+
+d:
+e:
+f:
+
+Responde ALFA:
+G-¿que debió hacer(todos los comandos) en el punto 8 para poder hacer lo pedido?
+
+g:
