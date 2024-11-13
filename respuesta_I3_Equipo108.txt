@@ -28,4 +28,16 @@ c: No hice comandos, hice todo mediante las opciones que brinda el Visual Studio
 Responde ALFA:
 G-¿que debió hacer(todos los comandos) en el punto 8 para poder hacer lo pedido?
 
-g:
+ Responde ALFA:
+ G-¿que debió hacer(todos los comandos) en el punto 8 para poder hacer lo pedido?
+ G: 
+   git fetch                                Actualizo los cambios
+   git checkout Paz-Gamboa                  Voy a la rama Pan-Gamboa
+   ifconfig
+   sudo nano beta.txt                       Actualizar datos en beta.txt 
+   git status
+   git add .
+   git commit -m "datosIpAlfa"              Commiteo
+   git push                                 Pusheo
+   
+   
