@@ -20,3 +20,24 @@ lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
         TX packets 189  bytes 15115 (15.1 KB)
         TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
 
+Paniagua Kevin Damian 12:30hs
+
+enp0s3: flags=4163<UP,ROADCAST,RUNNING,MULTICAST>  mtu 1500
+        inet 10.0.2.15  netmask 255.255.255.0  broadcast 10.0.2.255
+        inet6 fd00::cd0b:e0b2:d2ad:556f  prefixlen 64  scopeid 0x0<global>
+        inet6 fe80::a00:27ff:fee7:5034  prefixlen 64  scopeid 0x20<link>
+        inet6 fd00::a00:27ff:fee7:5034  prefixlen 64  scopeid 0x0<global>
+        ether 08:00:27:e7:50:34  txqueuelen 1000  (Ethernet)
+        RX packets 20  bytes 4585 (4.5 KB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 114  bytes 15272 (15.2 KB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
+        inet 127.0.0.1  netmask 255.0.0.0
+        inet6 ::1  prefixlen 128  scopeid 0x10<host>
+        loop  txqueuelen 1000  (Local Loopback)
+        RX packets 112  bytes 10386 (10.3 KB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 112  bytes 10386 (10.3 KB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
