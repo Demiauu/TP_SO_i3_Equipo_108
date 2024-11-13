@@ -16,9 +16,14 @@ c:
  d-¿Las ramas creadas por BETA y GAMMA quedan con datos actualizados?
  e-¿Detalle (explique) los problemas que tuvieron al hacer el merge?
  f-¿que debió hacer (todos los comandos) en el punto 7 para poder hacer lo pedido?
- d: Si, las ramas quedan actualizadas con lo ultimo que se 
- e:
- f:
+ d: Si, las ramas quedan actualizadas con los ultimos cambios que se realizaron
+ e: Particularmente no tuvimos ningun inconveniente debido a que trabajamos sobre unicamente
+ una sola rama al momento de avanzar, es decir que no realizamos cambios simultaneos en ambas
+ ramas.
+ f: Primeramente realice un git chekout Paz-Gamboa (Para ir a la rama) luego modifique el archivo,
+ realice un git add . para stagear todos los cambios, y luego un git push para subir los cambios a la 
+ rama remota 
+    
 
  Responde ALFA:
  G-¿que debió hacer(todos los comandos) en el punto 8 para poder hacer lo pedido?
