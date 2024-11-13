@@ -1,4 +1,4 @@
-Paz Gamboa Demian Agustin  192.168.56.1 12:22
+Paz Gamboa Demian Agustin 12:22
 
 enp0s3: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
         inet 10.0.2.15  netmask 255.255.255.0  broadcast 10.0.2.255
